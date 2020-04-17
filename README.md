@@ -3,6 +3,10 @@ A Simple Math Game Developed with react native
 
 #Screenshots
 
-First Page             |  No country found          |  asdf 
+Game Modes             |  Game Options          |  Infinity Mode 
 :-------------------------:|:-------------------------:|:----------------
-![](https://github.com/ravisojitra/rn-country-picker-minimal/blob/master/screenshots/first_page.png?raw=true)  |  ![](https://github.com/ravisojitra/rn-country-picker-minimal/blob/master/screenshots/no_country_found.png?raw=true)  | ![](https://github.com/ravisojitra/rn-country-picker-minimal/blob/master/screenshots/filtered_countries.png?raw=true)
+![](https://raw.githubusercontent.com/ravisojitra/MathGames/master/screenshots/gameModes.png)  |  ![](https://raw.githubusercontent.com/ravisojitra/MathGames/master/screenshots/gameOptions.png)  | ![](https://raw.githubusercontent.com/ravisojitra/MathGames/master/screenshots/infinity.png)
+
+Number Order             |  Settings          |  Tap Low/High Mode 
+:-------------------------:|:-------------------------:|:----------------
+![](https://raw.githubusercontent.com/ravisojitra/MathGames/master/screenshots/numberOrder.png)  |  ![](https://raw.githubusercontent.com/ravisojitra/MathGames/master/screenshots/settings.png)  | ![](https://raw.githubusercontent.com/ravisojitra/MathGames/master/screenshots/tapTheX.png)
