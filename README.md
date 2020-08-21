@@ -1,6 +1,8 @@
 # MathGames
 A Simple Math Game Developed with react native 
 
+You're welcome to generate PR to improve this game ;)
+
 #Screenshots
 
 Game Modes             |  Game Options          |  Infinity Mode 
