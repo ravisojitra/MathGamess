@@ -14,7 +14,7 @@
     "@react-native-community/async-storage": "^1.8.1",
     "@react-native-community/masked-view": "^0.1.7",
     "add": "^2.0.6",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "random-from-array": "^1.0.1",
     "randomatic": "^3.1.1",
     "react": "16.11.0",
